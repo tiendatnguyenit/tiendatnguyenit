@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**tiendatnguyenit/tiendatnguyenit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Guys < Developers/ >! 
 
-Here are some ideas to get you started:
+Profile views Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! My name is Dominic (Dat Nguyen). Thank You for taking the time to view my GitHub Profile 😄
+
+
+About Me
+Github
+
+🔭 I’m currently working on IceTeaLabs company
+
+🌱 I’m currently learning React advanced / How to build a greatest project
+
+💬 Talk to me about JavaScript, Typescript, HTML / CSS or Technology
+
+Skills 
+      
+Connect with me 
+   
+
+
+
+
+Aditya's GitHub Activity Graph
+
+Aditya's github stats	Aditya GitHub Streak
+Top Langs	Github Stars
+Jokes Card
